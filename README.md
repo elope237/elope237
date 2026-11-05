@@ -1,4 +1,4 @@
-# Hi, I'm Ernesto 👋
+# Hi, I'm Ernesto
 
 CS student at **Cal Poly, San Luis Obispo** focused on **cybersecurity** and **software development**.
 First-gen student · CAHSI researcher · Open to internships
